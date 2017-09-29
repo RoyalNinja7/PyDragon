@@ -2,7 +2,7 @@
 PyDragon is an advanced tool for pentesters and for fellow linux users 
 
 # Installation Instructions 
-I will soon upload a requirements.txt which you guys can run through to meet 
+I will soon upload a requirements.txt which you guys will be able to run through pip to meet 
 the requirements of tool
 
 # Contact me
